@@ -10,23 +10,23 @@
 
 ### 🎯 About me
 
-- 🎓 B.Tech CSE @ SRM Institute of Science and Technology, Trichy — **10/10 SGPA**
+- 🎓 B.Tech CSE @ SRM Institute of Science and Technology, Trichy - **10/10 SGPA**
 - 🎓 BS Data Science @ **IIT Madras**
-- 🧠 Research Team Lead, CSE Core Department, SRMIST Trichy
-- 🌱 Currently deep in **LLMs, RAG, and LangChain**
-- 💬 Ask me about NLP fine-tuning, ML deployment, or data pipelines
 
 ---
 
 ### 🚀 Featured work
 
 **Digital Twin of Plasma Medicine** — *Research work*
+
 No-code ML framework predicting antimicrobial efficacy of plasma-activated liquids. Built from 45 published articles, benchmarked 16 classifiers + 14 regressors — best model hit **83.33% accuracy (AUC 0.93)**, beating the published baseline. Deployed as an interactive Streamlit dashboard.
 
 **Detention Saver: Smart Attendance Dashboard** — *Top 5, Vibeathon 2026*
+
 Web app that calculates subject-wise attendance risk in real time against 75%/90% targets, with a "safe to bunk" indicator. Placed top 5 of all hackathon teams.
 
 **Tri-class Sentiment Classifier** — *AI/ML Intern, Edunet Foundation × AICTE × IBM SkillsBuild*
+
 Fine-tuned RoBERTa (Hugging Face) to add a Neutral sentiment class, reaching 0.77–0.88 confidence on factual text. Deployed to Streamlit Cloud.
 
 ---
@@ -61,10 +61,5 @@ Fine-tuned RoBERTa (Hugging Face) to add a Neutral sentiment class, reaching 0.7
 - 📜 GenAI Powered Data Analytics - Tata (Forage)
 
 ---
-
-### 📊 GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mirudhula2710&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" alt="Mirudhula's GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirudhula2710&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages">
 </p>
 <p align="center"><i>📫 Reach me at mirudhulabalaji2710@gmail.com</i></p>
